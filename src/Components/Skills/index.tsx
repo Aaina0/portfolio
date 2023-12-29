@@ -3,19 +3,19 @@
 import React from "react";
 import { motion } from "framer-motion";
 import SkillPart from "../Views/SkillPart";
-import CSS from "@/assets/CSS.png";
-import html5 from "@/assets/html5.png";
-import js from "@/assets/js.png";
-import ts from "@/assets/ts.png";
-import tailwind from "@/assets/tailwind.png";
-import bootstrap from "@/assets/bootstrap.png";
-import sanity from "@/assets/sanity.png";
-import mongoDB from "@/assets/mongoDB.png";
-import express from "@/assets/express.png";
-import node from "@/assets/node.png";
-import Next from "@/assets/Next.png";
-import react from "@/assets/react.png";
-import vs from "@/assets/vs.png";
+import CSS from "../../assets/css.png";
+import html5 from "../../assets/html5.png";
+import js from "../../assets/js.png";
+import ts from "../../assets/ts.png";
+import tailwind from "../../assets/tailwind.png";
+import bootstrap from "../../assets/bootstrap.png";
+import sanity from "../../assets/Sanity.png";
+import mongoDB from "../../assets/mongoDB.png";
+import express from "../../assets/express.png";
+import node from "../../assets/node.png";
+import Next from "../../assets/Next.png";
+import react from "../../assets/react.png";
+import vs from "../../assets/vs.png";
 const imagesForSkillPart = [
   html5.src,
   CSS.src,
